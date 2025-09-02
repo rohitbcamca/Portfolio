@@ -1,0 +1,1 @@
+ I built this personal portfolio website using HTML, CSS, and JavaScript. It’s designed to be fully responsive and easy to use, so it works smoothly on any device. The site highlights my skills, projects, and achievements in a clean, modern layout with interactive features that make it engaging and user-friendly.
